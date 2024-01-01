@@ -1,2 +1,2 @@
-# html,css and javascript course/index.html
+# html,css and javascript course
 html css javascript course
