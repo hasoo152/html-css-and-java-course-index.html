@@ -1,0 +1,39 @@
+.menu{
+    text-align: center;
+    background-color: gray;
+    padding: 6px;
+    margin-bottom: 100px;
+
+}
+.box{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.container{
+    text-align: center;
+    background-color: olive;
+    color: white;
+    margin-left: 12px;
+    border: 2px solid gray;
+    padding: 12px;
+}
+.container h3{
+    text-align: center;
+}
+.chicken{
+    border: 2px solid red;
+    background-color: rgb(112, 112, 75);
+    padding: 10px;
+}
+.been{
+    border: 2px solid red;
+    background-color: rgb(72, 126, 170);
+    padding: 10px;
+}
+.shushi{
+    border: 2px solid red;
+    background-color: rgb(124, 124, 82);
+    padding: 10px;
+}
